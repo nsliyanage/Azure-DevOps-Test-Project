@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VS Test Nethra", "VS Test Nethra\VS Test Nethra.csproj", "{12E1D207-D47D-4FA9-B960-1E5703BF7D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E1D207-D47D-4FA9-B960-1E5703BF7D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E1D207-D47D-4FA9-B960-1E5703BF7D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E1D207-D47D-4FA9-B960-1E5703BF7D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E1D207-D47D-4FA9-B960-1E5703BF7D45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63AA66E7-5908-43A1-9435-6EBFB0314D13}
+	EndGlobalSection
+EndGlobal
